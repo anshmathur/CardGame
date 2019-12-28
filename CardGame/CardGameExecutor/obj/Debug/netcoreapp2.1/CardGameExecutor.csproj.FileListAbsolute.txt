@@ -1,0 +1,11 @@
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\bin\Debug\netcoreapp2.1\CardGameExecutor.deps.json
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\bin\Debug\netcoreapp2.1\CardGameExecutor.runtimeconfig.json
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\bin\Debug\netcoreapp2.1\CardGameExecutor.runtimeconfig.dev.json
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\bin\Debug\netcoreapp2.1\CardGameExecutor.dll
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\bin\Debug\netcoreapp2.1\CardGameExecutor.pdb
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.csprojAssemblyReference.cache
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.csproj.CoreCompileInputs.cache
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.AssemblyInfoInputs.cache
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.AssemblyInfo.cs
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.dll
+D:\Anshul\ConsoleApp\CardGame\CardGameExecutor\obj\Debug\netcoreapp2.1\CardGameExecutor.pdb
